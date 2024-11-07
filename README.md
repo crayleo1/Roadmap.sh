@@ -5,8 +5,8 @@ https://roadmap.sh/projects/single-page-cv
 
 
 #Requirements:<br>
-Semantic HTML: Use appropriate HTML tags to structure your CV.
-SEO Meta Tags: Include essential meta tags for SEO.
-Open Graph (OG) Tags: Add OG tags for better social media sharing.
+Semantic HTML: Use appropriate HTML tags to structure your CV.<br>
+SEO Meta Tags: Include essential meta tags for SEO.<br>
+Open Graph (OG) Tags: Add OG tags for better social media sharing.<br>
 Favicon: Add a favicon for your CV page.
 
